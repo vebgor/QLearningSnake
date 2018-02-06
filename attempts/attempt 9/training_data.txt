@@ -1,0 +1,1 @@
+average step amount: 2092.0523012552303 average score: 5.5 highscore: 20
